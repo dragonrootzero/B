@@ -1,0 +1,6 @@
+[submodule "bob"]
+	path = bob
+	url = https://github.com/dragonrootzero/bob.git
+[submodule "eve"]
+	path = eve
+	url = https://github.com/dragonrootzero/eve.git
